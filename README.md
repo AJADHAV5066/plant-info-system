@@ -1,38 +1,38 @@
 # **Plant Identification System**
 
-# Python version: 3.10.10
+## Python version: 3.10.10
 
-# django version: 5.1.6
+## django version: 5.1.6
 
-# Activate the virtual venv
+## Activate the virtual venv
 
-# cd path/to/plant-info-system
+## cd path/to/plant-info-system
 
-# python -m venv venv # Create virtual environment
+## python -m venv venv # Create virtual environment
 
-# source venv/bin/activate # Activate on macOS/Linux
+## source venv/bin/activate # Activate on macOS/Linux
 
-# venv\Scripts\activate # Activate on Windows
+## venv\Scripts\activate # Activate on Windows
 
-# pip install -r requirements.txt
+## pip install -r requirements.txt
 
-# To run the backend
+## To run the backend
 
-# cd path/to/plant_backend
+## cd path/to/plant_backend
 
-# python manage.py import_plants
+## python manage.py import_plants
 
-# python manage.py makemigrations
+## python manage.py makemigrations
 
-# python manage.py migrate
+## python manage.py migrate
 
-# python manage.py runserver
+## python manage.py runserver
 
-# Run frontend
+## Run frontend
 
-# cd path/to/php_frontend
+## cd path/to/php_frontend
 
-# php -S localhost:8001
+## php -S localhost:8001
 
 ## **Introduction**
 
